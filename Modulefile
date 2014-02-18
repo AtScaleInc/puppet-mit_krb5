@@ -8,5 +8,5 @@ description 'Install and configure MIT Kerberos v5'
 project_page 'http://github.com/pfmooney/puppet-mit_krb5'
 
 ## Add dependencies, if any:
-dependency 'puppetlabs/concat', '= 1.0.0'
+dependency 'puppetlabs/concat', '1.0.0'
 dependency 'puppetlabs/stdlib', '>= 3.2.0'
